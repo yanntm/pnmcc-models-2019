@@ -8,7 +8,7 @@ cd website
 
 # grab the vmdk file image for all inputs
 mkdir INPUTS
-wget --progress=dot:mega http://mcc.lip6.fr/archives/mcc2019-input.vmdk.tar.bz2
+wget --progress=dot:mega http://mcc.lip6.fr/archives/2019/mcc2019-input.vmdk.tar.bz2
 tar xvjf mcc2019-input.vmdk.tar.bz2
 ../7z e mcc2019-input.vmdk
 ../ext2rd 0.img ./:INPUTS
@@ -28,7 +28,7 @@ cd ..
 
 # create oracle files
 mkdir oracle
-wget --progress=dot:mega https://mcc.lip6.fr/archives/raw-result-analysis.csv.zip
+wget --progress=dot:mega https://mcc.lip6.fr/archives/2019/raw-result-analysis.csv.zip
 unzip raw-result-analysis.csv.zip
 cat raw-result-analysis.csv | cut -d ',' -f2,3,16 | grep -v "?" | sort | uniq | ../csv_to_control.pl
 cat raw-result-analysis.csv | grep ReachabilityDeadlock | cut -d ',' -f2,3,16 | grep -v "?" | sort | uniq | sed 's/ReachabilityDeadlock/GlobalProperties/g' | ../csv_to_control.pl
