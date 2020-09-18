@@ -1,0 +1,2 @@
+./runatest.sh PhaseVariation-PT-D20CS100 GlobalProperties
+FORMULA PhaseVariation-PT-D20CS100-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

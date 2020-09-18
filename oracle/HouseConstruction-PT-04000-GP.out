@@ -1,0 +1,2 @@
+./runatest.sh HouseConstruction-PT-04000 GlobalProperties
+FORMULA HouseConstruction-PT-04000-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

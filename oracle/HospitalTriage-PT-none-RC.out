@@ -1,0 +1,17 @@
+./runatest.sh HospitalTriage-PT-none ReachabilityCardinality
+FORMULA HospitalTriage-PT-none-ReachabilityCardinality-00 FALSE TECHNIQUES ORACLE2019
+FORMULA HospitalTriage-PT-none-ReachabilityCardinality-01 FALSE TECHNIQUES ORACLE2019
+FORMULA HospitalTriage-PT-none-ReachabilityCardinality-02 TRUE TECHNIQUES ORACLE2019
+FORMULA HospitalTriage-PT-none-ReachabilityCardinality-03 TRUE TECHNIQUES ORACLE2019
+FORMULA HospitalTriage-PT-none-ReachabilityCardinality-04 TRUE TECHNIQUES ORACLE2019
+FORMULA HospitalTriage-PT-none-ReachabilityCardinality-05 FALSE TECHNIQUES ORACLE2019
+FORMULA HospitalTriage-PT-none-ReachabilityCardinality-06 FALSE TECHNIQUES ORACLE2019
+FORMULA HospitalTriage-PT-none-ReachabilityCardinality-07 TRUE TECHNIQUES ORACLE2019
+FORMULA HospitalTriage-PT-none-ReachabilityCardinality-08 TRUE TECHNIQUES ORACLE2019
+FORMULA HospitalTriage-PT-none-ReachabilityCardinality-09 TRUE TECHNIQUES ORACLE2019
+FORMULA HospitalTriage-PT-none-ReachabilityCardinality-10 FALSE TECHNIQUES ORACLE2019
+FORMULA HospitalTriage-PT-none-ReachabilityCardinality-11 FALSE TECHNIQUES ORACLE2019
+FORMULA HospitalTriage-PT-none-ReachabilityCardinality-12 TRUE TECHNIQUES ORACLE2019
+FORMULA HospitalTriage-PT-none-ReachabilityCardinality-13 FALSE TECHNIQUES ORACLE2019
+FORMULA HospitalTriage-PT-none-ReachabilityCardinality-14 TRUE TECHNIQUES ORACLE2019
+FORMULA HospitalTriage-PT-none-ReachabilityCardinality-15 TRUE TECHNIQUES ORACLE2019

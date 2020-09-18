@@ -1,0 +1,2 @@
+./runatest.sh CloudReconfiguration-PT-307 GlobalProperties
+FORMULA CloudReconfiguration-PT-307-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

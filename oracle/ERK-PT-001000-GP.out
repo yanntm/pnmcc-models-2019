@@ -1,0 +1,2 @@
+./runatest.sh ERK-PT-001000 GlobalProperties
+FORMULA ERK-PT-001000-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

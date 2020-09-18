@@ -1,0 +1,17 @@
+./runatest.sh PermAdmissibility-PT-50 ReachabilityFireability
+FORMULA PermAdmissibility-PT-50-ReachabilityFireability-00 TRUE TECHNIQUES ORACLE2019
+FORMULA PermAdmissibility-PT-50-ReachabilityFireability-01 TRUE TECHNIQUES ORACLE2019
+FORMULA PermAdmissibility-PT-50-ReachabilityFireability-02 TRUE TECHNIQUES ORACLE2019
+FORMULA PermAdmissibility-PT-50-ReachabilityFireability-03 TRUE TECHNIQUES ORACLE2019
+FORMULA PermAdmissibility-PT-50-ReachabilityFireability-04 TRUE TECHNIQUES ORACLE2019
+FORMULA PermAdmissibility-PT-50-ReachabilityFireability-05 TRUE TECHNIQUES ORACLE2019
+FORMULA PermAdmissibility-PT-50-ReachabilityFireability-06 TRUE TECHNIQUES ORACLE2019
+FORMULA PermAdmissibility-PT-50-ReachabilityFireability-07 TRUE TECHNIQUES ORACLE2019
+FORMULA PermAdmissibility-PT-50-ReachabilityFireability-08 FALSE TECHNIQUES ORACLE2019
+FORMULA PermAdmissibility-PT-50-ReachabilityFireability-09 TRUE TECHNIQUES ORACLE2019
+FORMULA PermAdmissibility-PT-50-ReachabilityFireability-10 TRUE TECHNIQUES ORACLE2019
+FORMULA PermAdmissibility-PT-50-ReachabilityFireability-11 FALSE TECHNIQUES ORACLE2019
+FORMULA PermAdmissibility-PT-50-ReachabilityFireability-12 TRUE TECHNIQUES ORACLE2019
+FORMULA PermAdmissibility-PT-50-ReachabilityFireability-13 TRUE TECHNIQUES ORACLE2019
+FORMULA PermAdmissibility-PT-50-ReachabilityFireability-14 FALSE TECHNIQUES ORACLE2019
+FORMULA PermAdmissibility-PT-50-ReachabilityFireability-15 TRUE TECHNIQUES ORACLE2019

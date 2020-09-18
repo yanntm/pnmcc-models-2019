@@ -1,0 +1,2 @@
+./runatest.sh BusinessProcesses-PT-10 GlobalProperties
+FORMULA BusinessProcesses-PT-10-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

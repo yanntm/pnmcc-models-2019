@@ -1,0 +1,17 @@
+./runatest.sh QuasiCertifProtocol-COL-02 ReachabilityFireability
+FORMULA QuasiCertifProtocol-COL-02-ReachabilityFireability-00 TRUE TECHNIQUES ORACLE2019
+FORMULA QuasiCertifProtocol-COL-02-ReachabilityFireability-01 TRUE TECHNIQUES ORACLE2019
+FORMULA QuasiCertifProtocol-COL-02-ReachabilityFireability-02 FALSE TECHNIQUES ORACLE2019
+FORMULA QuasiCertifProtocol-COL-02-ReachabilityFireability-03 FALSE TECHNIQUES ORACLE2019
+FORMULA QuasiCertifProtocol-COL-02-ReachabilityFireability-04 FALSE TECHNIQUES ORACLE2019
+FORMULA QuasiCertifProtocol-COL-02-ReachabilityFireability-05 TRUE TECHNIQUES ORACLE2019
+FORMULA QuasiCertifProtocol-COL-02-ReachabilityFireability-06 TRUE TECHNIQUES ORACLE2019
+FORMULA QuasiCertifProtocol-COL-02-ReachabilityFireability-07 FALSE TECHNIQUES ORACLE2019
+FORMULA QuasiCertifProtocol-COL-02-ReachabilityFireability-08 TRUE TECHNIQUES ORACLE2019
+FORMULA QuasiCertifProtocol-COL-02-ReachabilityFireability-09 FALSE TECHNIQUES ORACLE2019
+FORMULA QuasiCertifProtocol-COL-02-ReachabilityFireability-10 TRUE TECHNIQUES ORACLE2019
+FORMULA QuasiCertifProtocol-COL-02-ReachabilityFireability-11 FALSE TECHNIQUES ORACLE2019
+FORMULA QuasiCertifProtocol-COL-02-ReachabilityFireability-12 FALSE TECHNIQUES ORACLE2019
+FORMULA QuasiCertifProtocol-COL-02-ReachabilityFireability-13 TRUE TECHNIQUES ORACLE2019
+FORMULA QuasiCertifProtocol-COL-02-ReachabilityFireability-14 TRUE TECHNIQUES ORACLE2019
+FORMULA QuasiCertifProtocol-COL-02-ReachabilityFireability-15 TRUE TECHNIQUES ORACLE2019

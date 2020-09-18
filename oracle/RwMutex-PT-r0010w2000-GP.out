@@ -1,0 +1,2 @@
+./runatest.sh RwMutex-PT-r0010w2000 GlobalProperties
+FORMULA RwMutex-PT-r0010w2000-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

@@ -1,0 +1,2 @@
+./runatest.sh NeighborGrid-PT-d2n3m1c12 GlobalProperties
+FORMULA NeighborGrid-PT-d2n3m1c12-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

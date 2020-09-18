@@ -1,0 +1,2 @@
+./runatest.sh Eratosthenes-PT-050 GlobalProperties
+FORMULA Eratosthenes-PT-050-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

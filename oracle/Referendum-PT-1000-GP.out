@@ -1,0 +1,2 @@
+./runatest.sh Referendum-PT-1000 GlobalProperties
+FORMULA Referendum-PT-1000-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

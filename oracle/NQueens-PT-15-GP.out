@@ -1,0 +1,2 @@
+./runatest.sh NQueens-PT-15 GlobalProperties
+FORMULA NQueens-PT-15-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

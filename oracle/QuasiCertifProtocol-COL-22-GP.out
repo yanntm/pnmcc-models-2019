@@ -1,0 +1,2 @@
+./runatest.sh QuasiCertifProtocol-COL-22 GlobalProperties
+FORMULA QuasiCertifProtocol-COL-22-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

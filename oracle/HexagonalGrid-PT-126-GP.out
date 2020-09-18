@@ -1,0 +1,2 @@
+./runatest.sh HexagonalGrid-PT-126 GlobalProperties
+FORMULA HexagonalGrid-PT-126-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

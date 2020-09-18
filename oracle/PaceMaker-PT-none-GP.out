@@ -1,0 +1,2 @@
+./runatest.sh PaceMaker-PT-none GlobalProperties
+FORMULA PaceMaker-PT-none-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

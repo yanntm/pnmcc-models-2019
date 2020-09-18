@@ -1,0 +1,2 @@
+./runatest.sh BridgeAndVehicles-COL-V50P50N50 GlobalProperties
+FORMULA BridgeAndVehicles-COL-V50P50N50-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

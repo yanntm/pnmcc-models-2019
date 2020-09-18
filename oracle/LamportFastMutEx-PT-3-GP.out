@@ -1,0 +1,2 @@
+./runatest.sh LamportFastMutEx-PT-3 GlobalProperties
+FORMULA LamportFastMutEx-PT-3-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

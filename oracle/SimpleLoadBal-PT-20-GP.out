@@ -1,0 +1,2 @@
+./runatest.sh SimpleLoadBal-PT-20 GlobalProperties
+FORMULA SimpleLoadBal-PT-20-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

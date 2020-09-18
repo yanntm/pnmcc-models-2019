@@ -1,0 +1,2 @@
+./runatest.sh CloudDeployment-PT-4b GlobalProperties
+FORMULA CloudDeployment-PT-4b-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

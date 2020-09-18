@@ -1,0 +1,2 @@
+./runatest.sh FlexibleBarrier-PT-04a GlobalProperties
+FORMULA FlexibleBarrier-PT-04a-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

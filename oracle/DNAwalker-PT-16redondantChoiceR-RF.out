@@ -1,0 +1,17 @@
+./runatest.sh DNAwalker-PT-16redondantChoiceR ReachabilityFireability
+FORMULA DNAwalker-PT-16redondantChoiceR-ReachabilityFireability-00 TRUE TECHNIQUES ORACLE2019
+FORMULA DNAwalker-PT-16redondantChoiceR-ReachabilityFireability-01 FALSE TECHNIQUES ORACLE2019
+FORMULA DNAwalker-PT-16redondantChoiceR-ReachabilityFireability-02 TRUE TECHNIQUES ORACLE2019
+FORMULA DNAwalker-PT-16redondantChoiceR-ReachabilityFireability-03 TRUE TECHNIQUES ORACLE2019
+FORMULA DNAwalker-PT-16redondantChoiceR-ReachabilityFireability-04 FALSE TECHNIQUES ORACLE2019
+FORMULA DNAwalker-PT-16redondantChoiceR-ReachabilityFireability-05 TRUE TECHNIQUES ORACLE2019
+FORMULA DNAwalker-PT-16redondantChoiceR-ReachabilityFireability-06 TRUE TECHNIQUES ORACLE2019
+FORMULA DNAwalker-PT-16redondantChoiceR-ReachabilityFireability-07 FALSE TECHNIQUES ORACLE2019
+FORMULA DNAwalker-PT-16redondantChoiceR-ReachabilityFireability-08 TRUE TECHNIQUES ORACLE2019
+FORMULA DNAwalker-PT-16redondantChoiceR-ReachabilityFireability-09 FALSE TECHNIQUES ORACLE2019
+FORMULA DNAwalker-PT-16redondantChoiceR-ReachabilityFireability-10 FALSE TECHNIQUES ORACLE2019
+FORMULA DNAwalker-PT-16redondantChoiceR-ReachabilityFireability-11 FALSE TECHNIQUES ORACLE2019
+FORMULA DNAwalker-PT-16redondantChoiceR-ReachabilityFireability-12 FALSE TECHNIQUES ORACLE2019
+FORMULA DNAwalker-PT-16redondantChoiceR-ReachabilityFireability-13 FALSE TECHNIQUES ORACLE2019
+FORMULA DNAwalker-PT-16redondantChoiceR-ReachabilityFireability-14 FALSE TECHNIQUES ORACLE2019
+FORMULA DNAwalker-PT-16redondantChoiceR-ReachabilityFireability-15 FALSE TECHNIQUES ORACLE2019

@@ -1,0 +1,2 @@
+./runatest.sh DES-PT-10b GlobalProperties
+FORMULA DES-PT-10b-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

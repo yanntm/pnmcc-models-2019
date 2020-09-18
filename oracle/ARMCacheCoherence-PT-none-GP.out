@@ -1,0 +1,2 @@
+./runatest.sh ARMCacheCoherence-PT-none GlobalProperties
+FORMULA ARMCacheCoherence-PT-none-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

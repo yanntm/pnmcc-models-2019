@@ -1,0 +1,2 @@
+./runatest.sh RobotManipulation-PT-00200 GlobalProperties
+FORMULA RobotManipulation-PT-00200-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

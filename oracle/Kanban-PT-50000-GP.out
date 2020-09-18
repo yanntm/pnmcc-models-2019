@@ -1,0 +1,2 @@
+./runatest.sh Kanban-PT-50000 GlobalProperties
+FORMULA Kanban-PT-50000-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

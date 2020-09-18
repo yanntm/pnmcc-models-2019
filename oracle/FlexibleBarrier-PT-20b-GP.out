@@ -1,0 +1,2 @@
+./runatest.sh FlexibleBarrier-PT-20b GlobalProperties
+FORMULA FlexibleBarrier-PT-20b-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

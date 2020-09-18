@@ -1,0 +1,2 @@
+./runatest.sh ClientsAndServers-PT-N0002P1 GlobalProperties
+FORMULA ClientsAndServers-PT-N0002P1-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

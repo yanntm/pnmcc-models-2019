@@ -1,0 +1,2 @@
+./runatest.sh HospitalTriage-PT-none GlobalProperties
+FORMULA HospitalTriage-PT-none-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

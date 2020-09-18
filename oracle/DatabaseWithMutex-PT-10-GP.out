@@ -1,0 +1,2 @@
+./runatest.sh DatabaseWithMutex-PT-10 GlobalProperties
+FORMULA DatabaseWithMutex-PT-10-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

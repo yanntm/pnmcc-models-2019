@@ -1,0 +1,17 @@
+./runatest.sh DLCflexbar-PT-6b ReachabilityFireability
+FORMULA DLCflexbar-PT-6b-ReachabilityFireability-00 FALSE TECHNIQUES ORACLE2019
+FORMULA DLCflexbar-PT-6b-ReachabilityFireability-01 TRUE TECHNIQUES ORACLE2019
+FORMULA DLCflexbar-PT-6b-ReachabilityFireability-02 TRUE TECHNIQUES ORACLE2019
+FORMULA DLCflexbar-PT-6b-ReachabilityFireability-03 TRUE TECHNIQUES ORACLE2019
+FORMULA DLCflexbar-PT-6b-ReachabilityFireability-04 TRUE TECHNIQUES ORACLE2019
+FORMULA DLCflexbar-PT-6b-ReachabilityFireability-05 FALSE TECHNIQUES ORACLE2019
+FORMULA DLCflexbar-PT-6b-ReachabilityFireability-06 TRUE TECHNIQUES ORACLE2019
+FORMULA DLCflexbar-PT-6b-ReachabilityFireability-07 TRUE TECHNIQUES ORACLE2019
+FORMULA DLCflexbar-PT-6b-ReachabilityFireability-08 TRUE TECHNIQUES ORACLE2019
+FORMULA DLCflexbar-PT-6b-ReachabilityFireability-09 FALSE TECHNIQUES ORACLE2019
+FORMULA DLCflexbar-PT-6b-ReachabilityFireability-10 FALSE TECHNIQUES ORACLE2019
+FORMULA DLCflexbar-PT-6b-ReachabilityFireability-11 TRUE TECHNIQUES ORACLE2019
+FORMULA DLCflexbar-PT-6b-ReachabilityFireability-12 TRUE TECHNIQUES ORACLE2019
+FORMULA DLCflexbar-PT-6b-ReachabilityFireability-13 TRUE TECHNIQUES ORACLE2019
+FORMULA DLCflexbar-PT-6b-ReachabilityFireability-14 FALSE TECHNIQUES ORACLE2019
+FORMULA DLCflexbar-PT-6b-ReachabilityFireability-15 TRUE TECHNIQUES ORACLE2019

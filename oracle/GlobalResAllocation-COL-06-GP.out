@@ -1,0 +1,2 @@
+./runatest.sh GlobalResAllocation-COL-06 GlobalProperties
+FORMULA GlobalResAllocation-COL-06-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

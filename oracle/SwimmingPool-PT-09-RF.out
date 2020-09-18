@@ -1,0 +1,17 @@
+./runatest.sh SwimmingPool-PT-09 ReachabilityFireability
+FORMULA SwimmingPool-PT-09-ReachabilityFireability-00 TRUE TECHNIQUES ORACLE2019
+FORMULA SwimmingPool-PT-09-ReachabilityFireability-01 FALSE TECHNIQUES ORACLE2019
+FORMULA SwimmingPool-PT-09-ReachabilityFireability-02 FALSE TECHNIQUES ORACLE2019
+FORMULA SwimmingPool-PT-09-ReachabilityFireability-03 FALSE TECHNIQUES ORACLE2019
+FORMULA SwimmingPool-PT-09-ReachabilityFireability-04 FALSE TECHNIQUES ORACLE2019
+FORMULA SwimmingPool-PT-09-ReachabilityFireability-05 FALSE TECHNIQUES ORACLE2019
+FORMULA SwimmingPool-PT-09-ReachabilityFireability-06 FALSE TECHNIQUES ORACLE2019
+FORMULA SwimmingPool-PT-09-ReachabilityFireability-07 FALSE TECHNIQUES ORACLE2019
+FORMULA SwimmingPool-PT-09-ReachabilityFireability-08 TRUE TECHNIQUES ORACLE2019
+FORMULA SwimmingPool-PT-09-ReachabilityFireability-09 FALSE TECHNIQUES ORACLE2019
+FORMULA SwimmingPool-PT-09-ReachabilityFireability-10 FALSE TECHNIQUES ORACLE2019
+FORMULA SwimmingPool-PT-09-ReachabilityFireability-11 FALSE TECHNIQUES ORACLE2019
+FORMULA SwimmingPool-PT-09-ReachabilityFireability-12 TRUE TECHNIQUES ORACLE2019
+FORMULA SwimmingPool-PT-09-ReachabilityFireability-13 FALSE TECHNIQUES ORACLE2019
+FORMULA SwimmingPool-PT-09-ReachabilityFireability-14 FALSE TECHNIQUES ORACLE2019
+FORMULA SwimmingPool-PT-09-ReachabilityFireability-15 TRUE TECHNIQUES ORACLE2019

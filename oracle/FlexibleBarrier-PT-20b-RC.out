@@ -1,0 +1,17 @@
+./runatest.sh FlexibleBarrier-PT-20b ReachabilityCardinality
+FORMULA FlexibleBarrier-PT-20b-ReachabilityCardinality-00 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-20b-ReachabilityCardinality-01 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-20b-ReachabilityCardinality-02 FALSE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-20b-ReachabilityCardinality-03 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-20b-ReachabilityCardinality-04 FALSE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-20b-ReachabilityCardinality-05 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-20b-ReachabilityCardinality-06 FALSE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-20b-ReachabilityCardinality-07 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-20b-ReachabilityCardinality-08 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-20b-ReachabilityCardinality-09 FALSE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-20b-ReachabilityCardinality-10 FALSE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-20b-ReachabilityCardinality-11 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-20b-ReachabilityCardinality-12 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-20b-ReachabilityCardinality-13 FALSE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-20b-ReachabilityCardinality-14 FALSE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-20b-ReachabilityCardinality-15 FALSE TECHNIQUES ORACLE2019

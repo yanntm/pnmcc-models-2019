@@ -1,0 +1,2 @@
+./runatest.sh FMS-PT-00500 GlobalProperties
+FORMULA FMS-PT-00500-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

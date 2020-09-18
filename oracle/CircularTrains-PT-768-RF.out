@@ -1,0 +1,17 @@
+./runatest.sh CircularTrains-PT-768 ReachabilityFireability
+FORMULA CircularTrains-PT-768-ReachabilityFireability-00 FALSE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-768-ReachabilityFireability-01 FALSE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-768-ReachabilityFireability-02 TRUE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-768-ReachabilityFireability-03 FALSE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-768-ReachabilityFireability-04 FALSE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-768-ReachabilityFireability-05 TRUE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-768-ReachabilityFireability-06 FALSE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-768-ReachabilityFireability-07 FALSE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-768-ReachabilityFireability-08 TRUE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-768-ReachabilityFireability-09 TRUE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-768-ReachabilityFireability-10 TRUE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-768-ReachabilityFireability-11 FALSE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-768-ReachabilityFireability-12 TRUE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-768-ReachabilityFireability-13 TRUE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-768-ReachabilityFireability-14 TRUE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-768-ReachabilityFireability-15 FALSE TECHNIQUES ORACLE2019

@@ -1,0 +1,17 @@
+./runatest.sh CircularTrains-PT-012 ReachabilityCardinality
+FORMULA CircularTrains-PT-012-ReachabilityCardinality-00 TRUE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-012-ReachabilityCardinality-01 TRUE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-012-ReachabilityCardinality-02 FALSE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-012-ReachabilityCardinality-03 FALSE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-012-ReachabilityCardinality-04 TRUE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-012-ReachabilityCardinality-05 FALSE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-012-ReachabilityCardinality-06 FALSE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-012-ReachabilityCardinality-07 TRUE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-012-ReachabilityCardinality-08 FALSE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-012-ReachabilityCardinality-09 TRUE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-012-ReachabilityCardinality-10 FALSE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-012-ReachabilityCardinality-11 FALSE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-012-ReachabilityCardinality-12 TRUE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-012-ReachabilityCardinality-13 FALSE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-012-ReachabilityCardinality-14 FALSE TECHNIQUES ORACLE2019
+FORMULA CircularTrains-PT-012-ReachabilityCardinality-15 FALSE TECHNIQUES ORACLE2019

@@ -1,0 +1,17 @@
+./runatest.sh CloudReconfiguration-PT-313 ReachabilityCardinality
+FORMULA CloudReconfiguration-PT-313-ReachabilityCardinality-00 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-313-ReachabilityCardinality-01 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-313-ReachabilityCardinality-02 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-313-ReachabilityCardinality-03 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-313-ReachabilityCardinality-04 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-313-ReachabilityCardinality-05 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-313-ReachabilityCardinality-06 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-313-ReachabilityCardinality-07 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-313-ReachabilityCardinality-08 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-313-ReachabilityCardinality-09 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-313-ReachabilityCardinality-10 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-313-ReachabilityCardinality-11 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-313-ReachabilityCardinality-12 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-313-ReachabilityCardinality-13 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-313-ReachabilityCardinality-14 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-313-ReachabilityCardinality-15 TRUE TECHNIQUES ORACLE2019

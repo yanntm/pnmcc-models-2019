@@ -1,0 +1,17 @@
+./runatest.sh RobotManipulation-PT-00500 ReachabilityFireability
+FORMULA RobotManipulation-PT-00500-ReachabilityFireability-00 TRUE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00500-ReachabilityFireability-01 FALSE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00500-ReachabilityFireability-02 FALSE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00500-ReachabilityFireability-03 FALSE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00500-ReachabilityFireability-04 FALSE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00500-ReachabilityFireability-05 TRUE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00500-ReachabilityFireability-06 TRUE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00500-ReachabilityFireability-07 TRUE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00500-ReachabilityFireability-08 TRUE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00500-ReachabilityFireability-09 FALSE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00500-ReachabilityFireability-10 FALSE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00500-ReachabilityFireability-11 FALSE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00500-ReachabilityFireability-12 FALSE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00500-ReachabilityFireability-13 TRUE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00500-ReachabilityFireability-14 TRUE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00500-ReachabilityFireability-15 TRUE TECHNIQUES ORACLE2019

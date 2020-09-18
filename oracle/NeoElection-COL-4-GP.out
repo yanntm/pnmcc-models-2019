@@ -1,0 +1,2 @@
+./runatest.sh NeoElection-COL-4 GlobalProperties
+FORMULA NeoElection-COL-4-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

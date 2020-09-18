@@ -1,0 +1,2 @@
+./runatest.sh NoC3x3-PT-8B GlobalProperties
+FORMULA NoC3x3-PT-8B-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

@@ -1,0 +1,2 @@
+./runatest.sh EnergyBus-PT-none GlobalProperties
+FORMULA EnergyBus-PT-none-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

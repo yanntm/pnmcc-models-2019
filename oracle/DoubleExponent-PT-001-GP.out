@@ -1,0 +1,2 @@
+./runatest.sh DoubleExponent-PT-001 GlobalProperties
+FORMULA DoubleExponent-PT-001-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

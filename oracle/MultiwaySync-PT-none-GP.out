@@ -1,0 +1,2 @@
+./runatest.sh MultiwaySync-PT-none GlobalProperties
+FORMULA MultiwaySync-PT-none-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

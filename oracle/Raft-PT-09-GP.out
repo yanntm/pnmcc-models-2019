@@ -1,0 +1,2 @@
+./runatest.sh Raft-PT-09 GlobalProperties
+FORMULA Raft-PT-09-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

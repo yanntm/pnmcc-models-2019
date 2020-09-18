@@ -1,0 +1,2 @@
+./runatest.sh AirplaneLD-PT-2000 GlobalProperties
+FORMULA AirplaneLD-PT-2000-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

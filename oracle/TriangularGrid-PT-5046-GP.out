@@ -1,0 +1,2 @@
+./runatest.sh TriangularGrid-PT-5046 GlobalProperties
+FORMULA TriangularGrid-PT-5046-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

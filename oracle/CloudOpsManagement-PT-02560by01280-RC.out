@@ -1,0 +1,17 @@
+./runatest.sh CloudOpsManagement-PT-02560by01280 ReachabilityCardinality
+FORMULA CloudOpsManagement-PT-02560by01280-ReachabilityCardinality-00 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudOpsManagement-PT-02560by01280-ReachabilityCardinality-01 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudOpsManagement-PT-02560by01280-ReachabilityCardinality-02 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudOpsManagement-PT-02560by01280-ReachabilityCardinality-03 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudOpsManagement-PT-02560by01280-ReachabilityCardinality-04 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudOpsManagement-PT-02560by01280-ReachabilityCardinality-05 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudOpsManagement-PT-02560by01280-ReachabilityCardinality-06 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudOpsManagement-PT-02560by01280-ReachabilityCardinality-07 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudOpsManagement-PT-02560by01280-ReachabilityCardinality-08 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudOpsManagement-PT-02560by01280-ReachabilityCardinality-09 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudOpsManagement-PT-02560by01280-ReachabilityCardinality-10 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudOpsManagement-PT-02560by01280-ReachabilityCardinality-11 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudOpsManagement-PT-02560by01280-ReachabilityCardinality-12 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudOpsManagement-PT-02560by01280-ReachabilityCardinality-13 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudOpsManagement-PT-02560by01280-ReachabilityCardinality-14 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudOpsManagement-PT-02560by01280-ReachabilityCardinality-15 TRUE TECHNIQUES ORACLE2019

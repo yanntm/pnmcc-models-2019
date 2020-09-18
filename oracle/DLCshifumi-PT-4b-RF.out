@@ -1,0 +1,17 @@
+./runatest.sh DLCshifumi-PT-4b ReachabilityFireability
+FORMULA DLCshifumi-PT-4b-ReachabilityFireability-00 TRUE TECHNIQUES ORACLE2019
+FORMULA DLCshifumi-PT-4b-ReachabilityFireability-01 TRUE TECHNIQUES ORACLE2019
+FORMULA DLCshifumi-PT-4b-ReachabilityFireability-02 FALSE TECHNIQUES ORACLE2019
+FORMULA DLCshifumi-PT-4b-ReachabilityFireability-03 FALSE TECHNIQUES ORACLE2019
+FORMULA DLCshifumi-PT-4b-ReachabilityFireability-04 TRUE TECHNIQUES ORACLE2019
+FORMULA DLCshifumi-PT-4b-ReachabilityFireability-05 TRUE TECHNIQUES ORACLE2019
+FORMULA DLCshifumi-PT-4b-ReachabilityFireability-06 FALSE TECHNIQUES ORACLE2019
+FORMULA DLCshifumi-PT-4b-ReachabilityFireability-07 FALSE TECHNIQUES ORACLE2019
+FORMULA DLCshifumi-PT-4b-ReachabilityFireability-08 TRUE TECHNIQUES ORACLE2019
+FORMULA DLCshifumi-PT-4b-ReachabilityFireability-09 TRUE TECHNIQUES ORACLE2019
+FORMULA DLCshifumi-PT-4b-ReachabilityFireability-10 FALSE TECHNIQUES ORACLE2019
+FORMULA DLCshifumi-PT-4b-ReachabilityFireability-11 TRUE TECHNIQUES ORACLE2019
+FORMULA DLCshifumi-PT-4b-ReachabilityFireability-12 TRUE TECHNIQUES ORACLE2019
+FORMULA DLCshifumi-PT-4b-ReachabilityFireability-13 TRUE TECHNIQUES ORACLE2019
+FORMULA DLCshifumi-PT-4b-ReachabilityFireability-14 FALSE TECHNIQUES ORACLE2019
+FORMULA DLCshifumi-PT-4b-ReachabilityFireability-15 TRUE TECHNIQUES ORACLE2019

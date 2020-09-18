@@ -1,0 +1,2 @@
+./runatest.sh Referendum-COL-0100 GlobalProperties
+FORMULA Referendum-COL-0100-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

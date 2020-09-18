@@ -1,0 +1,2 @@
+./runatest.sh SmallOperatingSystem-PT-MT1024DC0256 GlobalProperties
+FORMULA SmallOperatingSystem-PT-MT1024DC0256-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

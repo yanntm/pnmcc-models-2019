@@ -1,0 +1,2 @@
+./runatest.sh ProductionCell-PT-none GlobalProperties
+FORMULA ProductionCell-PT-none-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

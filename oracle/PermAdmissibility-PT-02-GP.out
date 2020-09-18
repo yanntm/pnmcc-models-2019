@@ -1,0 +1,2 @@
+./runatest.sh PermAdmissibility-PT-02 GlobalProperties
+FORMULA PermAdmissibility-PT-02-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

@@ -1,0 +1,2 @@
+./runatest.sh CircularTrains-PT-192 GlobalProperties
+FORMULA CircularTrains-PT-192-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

@@ -1,0 +1,2 @@
+./runatest.sh DrinkVendingMachine-PT-10 GlobalProperties
+FORMULA DrinkVendingMachine-PT-10-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

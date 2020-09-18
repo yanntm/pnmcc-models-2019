@@ -1,0 +1,2 @@
+./runatest.sh TriangularGrid-PT-1500 GlobalProperties
+FORMULA TriangularGrid-PT-1500-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

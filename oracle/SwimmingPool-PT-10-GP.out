@@ -1,0 +1,2 @@
+./runatest.sh SwimmingPool-PT-10 GlobalProperties
+FORMULA SwimmingPool-PT-10-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

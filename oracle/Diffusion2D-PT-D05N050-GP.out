@@ -1,0 +1,2 @@
+./runatest.sh Diffusion2D-PT-D05N050 GlobalProperties
+FORMULA Diffusion2D-PT-D05N050-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

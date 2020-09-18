@@ -1,0 +1,2 @@
+./runatest.sh PermAdmissibility-COL-10 GlobalProperties
+FORMULA PermAdmissibility-COL-10-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

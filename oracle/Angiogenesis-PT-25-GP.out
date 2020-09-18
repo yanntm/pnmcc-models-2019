@@ -1,0 +1,2 @@
+./runatest.sh Angiogenesis-PT-25 GlobalProperties
+FORMULA Angiogenesis-PT-25-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

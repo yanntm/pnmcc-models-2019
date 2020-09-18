@@ -1,0 +1,2 @@
+./runatest.sh NeoElection-PT-8 GlobalProperties
+FORMULA NeoElection-PT-8-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

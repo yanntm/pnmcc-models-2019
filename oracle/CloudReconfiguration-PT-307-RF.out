@@ -1,0 +1,17 @@
+./runatest.sh CloudReconfiguration-PT-307 ReachabilityFireability
+FORMULA CloudReconfiguration-PT-307-ReachabilityFireability-00 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-307-ReachabilityFireability-01 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-307-ReachabilityFireability-02 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-307-ReachabilityFireability-03 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-307-ReachabilityFireability-04 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-307-ReachabilityFireability-05 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-307-ReachabilityFireability-06 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-307-ReachabilityFireability-07 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-307-ReachabilityFireability-08 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-307-ReachabilityFireability-09 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-307-ReachabilityFireability-10 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-307-ReachabilityFireability-11 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-307-ReachabilityFireability-12 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-307-ReachabilityFireability-13 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-307-ReachabilityFireability-14 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudReconfiguration-PT-307-ReachabilityFireability-15 TRUE TECHNIQUES ORACLE2019

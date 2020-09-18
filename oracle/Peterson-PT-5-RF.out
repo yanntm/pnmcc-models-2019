@@ -1,0 +1,17 @@
+./runatest.sh Peterson-PT-5 ReachabilityFireability
+FORMULA Peterson-PT-5-ReachabilityFireability-00 TRUE TECHNIQUES ORACLE2019
+FORMULA Peterson-PT-5-ReachabilityFireability-01 TRUE TECHNIQUES ORACLE2019
+FORMULA Peterson-PT-5-ReachabilityFireability-02 TRUE TECHNIQUES ORACLE2019
+FORMULA Peterson-PT-5-ReachabilityFireability-03 TRUE TECHNIQUES ORACLE2019
+FORMULA Peterson-PT-5-ReachabilityFireability-04 TRUE TECHNIQUES ORACLE2019
+FORMULA Peterson-PT-5-ReachabilityFireability-05 TRUE TECHNIQUES ORACLE2019
+FORMULA Peterson-PT-5-ReachabilityFireability-06 FALSE TECHNIQUES ORACLE2019
+FORMULA Peterson-PT-5-ReachabilityFireability-07 TRUE TECHNIQUES ORACLE2019
+FORMULA Peterson-PT-5-ReachabilityFireability-08 TRUE TECHNIQUES ORACLE2019
+FORMULA Peterson-PT-5-ReachabilityFireability-09 FALSE TECHNIQUES ORACLE2019
+FORMULA Peterson-PT-5-ReachabilityFireability-10 FALSE TECHNIQUES ORACLE2019
+FORMULA Peterson-PT-5-ReachabilityFireability-11 TRUE TECHNIQUES ORACLE2019
+FORMULA Peterson-PT-5-ReachabilityFireability-12 FALSE TECHNIQUES ORACLE2019
+FORMULA Peterson-PT-5-ReachabilityFireability-13 TRUE TECHNIQUES ORACLE2019
+FORMULA Peterson-PT-5-ReachabilityFireability-14 FALSE TECHNIQUES ORACLE2019
+FORMULA Peterson-PT-5-ReachabilityFireability-15 TRUE TECHNIQUES ORACLE2019

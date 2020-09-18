@@ -1,0 +1,2 @@
+./runatest.sh SharedMemory-COL-000010 GlobalProperties
+FORMULA SharedMemory-COL-000010-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

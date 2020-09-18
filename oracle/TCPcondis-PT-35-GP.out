@@ -1,0 +1,2 @@
+./runatest.sh TCPcondis-PT-35 GlobalProperties
+FORMULA TCPcondis-PT-35-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

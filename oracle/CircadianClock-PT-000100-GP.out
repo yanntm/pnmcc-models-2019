@@ -1,0 +1,2 @@
+./runatest.sh CircadianClock-PT-000100 GlobalProperties
+FORMULA CircadianClock-PT-000100-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

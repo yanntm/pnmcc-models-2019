@@ -1,0 +1,17 @@
+./runatest.sh CloudDeployment-PT-4a ReachabilityFireability
+FORMULA CloudDeployment-PT-4a-ReachabilityFireability-00 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudDeployment-PT-4a-ReachabilityFireability-01 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudDeployment-PT-4a-ReachabilityFireability-02 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudDeployment-PT-4a-ReachabilityFireability-03 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudDeployment-PT-4a-ReachabilityFireability-04 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudDeployment-PT-4a-ReachabilityFireability-05 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudDeployment-PT-4a-ReachabilityFireability-06 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudDeployment-PT-4a-ReachabilityFireability-07 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudDeployment-PT-4a-ReachabilityFireability-08 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudDeployment-PT-4a-ReachabilityFireability-09 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudDeployment-PT-4a-ReachabilityFireability-10 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudDeployment-PT-4a-ReachabilityFireability-11 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudDeployment-PT-4a-ReachabilityFireability-12 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudDeployment-PT-4a-ReachabilityFireability-13 FALSE TECHNIQUES ORACLE2019
+FORMULA CloudDeployment-PT-4a-ReachabilityFireability-14 TRUE TECHNIQUES ORACLE2019
+FORMULA CloudDeployment-PT-4a-ReachabilityFireability-15 TRUE TECHNIQUES ORACLE2019

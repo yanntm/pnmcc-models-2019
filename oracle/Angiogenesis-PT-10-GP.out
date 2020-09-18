@@ -1,0 +1,2 @@
+./runatest.sh Angiogenesis-PT-10 GlobalProperties
+FORMULA Angiogenesis-PT-10-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

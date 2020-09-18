@@ -1,0 +1,17 @@
+./runatest.sh AutoFlight-PT-02b ReachabilityFireability
+FORMULA AutoFlight-PT-02b-ReachabilityFireability-00 TRUE TECHNIQUES ORACLE2019
+FORMULA AutoFlight-PT-02b-ReachabilityFireability-01 TRUE TECHNIQUES ORACLE2019
+FORMULA AutoFlight-PT-02b-ReachabilityFireability-02 TRUE TECHNIQUES ORACLE2019
+FORMULA AutoFlight-PT-02b-ReachabilityFireability-03 TRUE TECHNIQUES ORACLE2019
+FORMULA AutoFlight-PT-02b-ReachabilityFireability-04 TRUE TECHNIQUES ORACLE2019
+FORMULA AutoFlight-PT-02b-ReachabilityFireability-05 TRUE TECHNIQUES ORACLE2019
+FORMULA AutoFlight-PT-02b-ReachabilityFireability-06 FALSE TECHNIQUES ORACLE2019
+FORMULA AutoFlight-PT-02b-ReachabilityFireability-07 TRUE TECHNIQUES ORACLE2019
+FORMULA AutoFlight-PT-02b-ReachabilityFireability-08 TRUE TECHNIQUES ORACLE2019
+FORMULA AutoFlight-PT-02b-ReachabilityFireability-09 FALSE TECHNIQUES ORACLE2019
+FORMULA AutoFlight-PT-02b-ReachabilityFireability-10 TRUE TECHNIQUES ORACLE2019
+FORMULA AutoFlight-PT-02b-ReachabilityFireability-11 TRUE TECHNIQUES ORACLE2019
+FORMULA AutoFlight-PT-02b-ReachabilityFireability-12 FALSE TECHNIQUES ORACLE2019
+FORMULA AutoFlight-PT-02b-ReachabilityFireability-13 FALSE TECHNIQUES ORACLE2019
+FORMULA AutoFlight-PT-02b-ReachabilityFireability-14 FALSE TECHNIQUES ORACLE2019
+FORMULA AutoFlight-PT-02b-ReachabilityFireability-15 TRUE TECHNIQUES ORACLE2019

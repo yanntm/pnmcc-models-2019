@@ -1,0 +1,2 @@
+./runatest.sh UtahNoC-PT-none GlobalProperties
+FORMULA UtahNoC-PT-none-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

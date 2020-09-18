@@ -1,0 +1,2 @@
+./runatest.sh Dekker-PT-100 GlobalProperties
+FORMULA Dekker-PT-100-GlobalProperties-0 FALSE TECHNIQUES ORACLE2019

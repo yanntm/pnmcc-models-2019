@@ -1,0 +1,17 @@
+./runatest.sh MultiwaySync-PT-none ReachabilityCardinality
+FORMULA MultiwaySync-PT-none-ReachabilityCardinality-00 TRUE TECHNIQUES ORACLE2019
+FORMULA MultiwaySync-PT-none-ReachabilityCardinality-01 FALSE TECHNIQUES ORACLE2019
+FORMULA MultiwaySync-PT-none-ReachabilityCardinality-02 TRUE TECHNIQUES ORACLE2019
+FORMULA MultiwaySync-PT-none-ReachabilityCardinality-03 TRUE TECHNIQUES ORACLE2019
+FORMULA MultiwaySync-PT-none-ReachabilityCardinality-04 FALSE TECHNIQUES ORACLE2019
+FORMULA MultiwaySync-PT-none-ReachabilityCardinality-05 TRUE TECHNIQUES ORACLE2019
+FORMULA MultiwaySync-PT-none-ReachabilityCardinality-06 FALSE TECHNIQUES ORACLE2019
+FORMULA MultiwaySync-PT-none-ReachabilityCardinality-07 TRUE TECHNIQUES ORACLE2019
+FORMULA MultiwaySync-PT-none-ReachabilityCardinality-08 TRUE TECHNIQUES ORACLE2019
+FORMULA MultiwaySync-PT-none-ReachabilityCardinality-09 FALSE TECHNIQUES ORACLE2019
+FORMULA MultiwaySync-PT-none-ReachabilityCardinality-10 TRUE TECHNIQUES ORACLE2019
+FORMULA MultiwaySync-PT-none-ReachabilityCardinality-11 TRUE TECHNIQUES ORACLE2019
+FORMULA MultiwaySync-PT-none-ReachabilityCardinality-12 FALSE TECHNIQUES ORACLE2019
+FORMULA MultiwaySync-PT-none-ReachabilityCardinality-13 FALSE TECHNIQUES ORACLE2019
+FORMULA MultiwaySync-PT-none-ReachabilityCardinality-14 FALSE TECHNIQUES ORACLE2019
+FORMULA MultiwaySync-PT-none-ReachabilityCardinality-15 TRUE TECHNIQUES ORACLE2019

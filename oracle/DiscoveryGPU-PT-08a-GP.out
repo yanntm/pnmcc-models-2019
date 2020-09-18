@@ -1,0 +1,2 @@
+./runatest.sh DiscoveryGPU-PT-08a GlobalProperties
+FORMULA DiscoveryGPU-PT-08a-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

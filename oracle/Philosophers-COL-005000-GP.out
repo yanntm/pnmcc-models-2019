@@ -1,0 +1,2 @@
+./runatest.sh Philosophers-COL-005000 GlobalProperties
+FORMULA Philosophers-COL-005000-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

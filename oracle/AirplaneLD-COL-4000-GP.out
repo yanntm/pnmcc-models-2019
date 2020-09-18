@@ -1,0 +1,2 @@
+./runatest.sh AirplaneLD-COL-4000 GlobalProperties
+FORMULA AirplaneLD-COL-4000-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

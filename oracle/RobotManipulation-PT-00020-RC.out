@@ -1,0 +1,17 @@
+./runatest.sh RobotManipulation-PT-00020 ReachabilityCardinality
+FORMULA RobotManipulation-PT-00020-ReachabilityCardinality-00 TRUE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00020-ReachabilityCardinality-01 TRUE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00020-ReachabilityCardinality-02 FALSE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00020-ReachabilityCardinality-03 TRUE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00020-ReachabilityCardinality-04 TRUE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00020-ReachabilityCardinality-05 TRUE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00020-ReachabilityCardinality-06 TRUE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00020-ReachabilityCardinality-07 TRUE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00020-ReachabilityCardinality-08 TRUE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00020-ReachabilityCardinality-09 TRUE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00020-ReachabilityCardinality-10 FALSE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00020-ReachabilityCardinality-11 FALSE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00020-ReachabilityCardinality-12 TRUE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00020-ReachabilityCardinality-13 FALSE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00020-ReachabilityCardinality-14 FALSE TECHNIQUES ORACLE2019
+FORMULA RobotManipulation-PT-00020-ReachabilityCardinality-15 TRUE TECHNIQUES ORACLE2019

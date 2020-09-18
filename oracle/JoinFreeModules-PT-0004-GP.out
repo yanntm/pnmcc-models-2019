@@ -1,0 +1,2 @@
+./runatest.sh JoinFreeModules-PT-0004 GlobalProperties
+FORMULA JoinFreeModules-PT-0004-GlobalProperties-0 TRUE TECHNIQUES ORACLE2019

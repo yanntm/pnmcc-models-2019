@@ -1,0 +1,17 @@
+./runatest.sh FlexibleBarrier-PT-16b ReachabilityFireability
+FORMULA FlexibleBarrier-PT-16b-ReachabilityFireability-00 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-16b-ReachabilityFireability-01 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-16b-ReachabilityFireability-02 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-16b-ReachabilityFireability-03 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-16b-ReachabilityFireability-04 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-16b-ReachabilityFireability-05 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-16b-ReachabilityFireability-06 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-16b-ReachabilityFireability-07 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-16b-ReachabilityFireability-08 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-16b-ReachabilityFireability-09 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-16b-ReachabilityFireability-10 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-16b-ReachabilityFireability-11 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-16b-ReachabilityFireability-12 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-16b-ReachabilityFireability-13 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-16b-ReachabilityFireability-14 TRUE TECHNIQUES ORACLE2019
+FORMULA FlexibleBarrier-PT-16b-ReachabilityFireability-15 TRUE TECHNIQUES ORACLE2019
