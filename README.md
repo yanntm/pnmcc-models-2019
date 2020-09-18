@@ -2,6 +2,8 @@
 
 Extracted models + *formulas* + oracles where available based on [MCC'2019](http://mcc.lip6.fr) competition.
 
+See also https://github.com/yanntm/pnmcc-models-2020 the 2020 version of this site, now available. 
+
 This project automatically extracts and produces separate archives for each model of the competition, along with "oracle" files that describe the expected values as computed in "expected" by consensus among the competing tools in 2018.
 
 The files are distributed here : [Generated Page](https://yanntm.github.io/pnmcc-models-2019) as 
